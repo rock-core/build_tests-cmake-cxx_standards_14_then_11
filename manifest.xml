@@ -1,0 +1,12 @@
+<package>
+  <description brief="Test the behavior when multiple c++ standards are imported from other packages">
+  
+  </description>
+  <author>/</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+  <depend package="build_tests/cmake/plain_cxx11_package" />
+  <depend package="build_tests/cmake/plain_cxx14_package" />
+</package>
